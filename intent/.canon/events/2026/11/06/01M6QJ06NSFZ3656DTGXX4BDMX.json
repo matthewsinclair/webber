@@ -1,0 +1,14 @@
+{
+  "id": "01M6QJ06NSFZ3656DTGXX4BDMX",
+  "ts": "2026-11-06T04:31:19.225Z",
+  "principal": "Matthew Sinclair <hello@matthewsinclair.com>",
+  "project_id": "3539365a-74a7-4ae1-8b59-e07bc0d10d25",
+  "op": "st.new",
+  "subject": {
+    "type": "thread",
+    "id": "ST0001"
+  },
+  "payload": {
+    "title": "Webber bootstrap"
+  }
+}

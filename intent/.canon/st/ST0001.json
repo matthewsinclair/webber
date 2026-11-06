@@ -1,0 +1,12 @@
+{
+  "schema": "intent/thread@3.0",
+  "id": "ST0001",
+  "title": "Webber bootstrap",
+  "slug": "webber-bootstrap",
+  "status": "wip",
+  "created": "2026-11-06",
+  "objective": "",
+  "context": "",
+  "body": "",
+  "preamble": ""
+}

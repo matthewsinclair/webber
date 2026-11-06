@@ -1,0 +1,14 @@
+{
+  "id": "01M6QHN9T7SZDTD4JPA7FC7SZ6",
+  "ts": "2026-11-06T04:25:21.991Z",
+  "principal": "Matthew Sinclair <hello@matthewsinclair.com>",
+  "project_id": "Webber",
+  "op": "init",
+  "subject": {
+    "type": "project",
+    "id": "Webber"
+  },
+  "payload": {
+    "intent_version": "3.2.8"
+  }
+}

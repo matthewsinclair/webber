@@ -1,0 +1,12 @@
+{
+  "intent_version": "3.2.8",
+  "project_name": "Webber",
+  "author": "matts",
+  "project_id": "3539365a-74a7-4ae1-8b59-e07bc0d10d25",
+  "created": "2026-11-06T04:25:21.991Z",
+  "intent_dir": "intent",
+  "languages": [],
+  "backup": {
+    "schedule": "daily"
+  }
+}
